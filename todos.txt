@@ -1,0 +1,6 @@
+dir(str)-check string methods
+add new number
+dir(list)-check list methods
+help(list.methods)-documentation
+dir(builtins)-check all built-ins
+How are you?
